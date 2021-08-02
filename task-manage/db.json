@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "text": "React-Native Task",
+      "month": "March 2021",
+      "reminder": true
+    },
+    {
+      "id": "2",
+      "text": "React-Redux Task",
+      "month": "Apr 2021",
+      "reminder": true
+    },
+    {
+      "id": "3",
+      "text": "Vue-Js Task",
+      "month": "Jun 2021",
+      "reminder": false
+    }
+  ]
+}
